@@ -1,0 +1,6 @@
+{
+  "name": "Jeevan Wings",
+  "description": "Communication & Child Development Centre - Premium healthcare platform for pediatric therapy, speech development, occupational therapy, and early intervention in Noida.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
